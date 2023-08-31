@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh An</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">Think differently but don't change nature</h3>
 
-
-- 🔭 I’m currently working on [BnK Solution](https://bnksolution.com/)
 
 - 🌱 I’m currently learning **Flutter, ReactJS**
 
