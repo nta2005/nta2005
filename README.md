@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyen Thanh An</h1>
+<h1 align="center">Hi, I'm Nguyen Thanh An</h1>
 <h3 align="center">Think differently but don't change nature</h3>
-
-
-- 🌱 I’m currently learning **Flutter, ReactJS**
-
-- 👯 I’m looking to collaborate with **other developers**
-
-### Connect with me:
-
-<a href="https://facebook.com/nta2005" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nta2005" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/nta2005" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nta2005" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
