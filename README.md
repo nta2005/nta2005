@@ -13,7 +13,3 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nta2005&layout=compact&hide=html" alt="nta2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nta2005&show_icons=true" alt="nta2005" /></p>
